@@ -1,0 +1,12 @@
+body{
+    background-color: #262832;
+    margin: 0;
+    overflow-y: scroll;
+    position: absolute;
+    top:0px;
+    bottom:0px;
+    height:100%;
+    width: 100%;
+    text-align: center;
+}
+

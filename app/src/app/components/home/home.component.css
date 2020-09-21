@@ -1,0 +1,12 @@
+.board{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position:relative;
+    background-color: hsla(0,0%,100%,.9);
+    color: #262832;
+    border-radius: 25px;
+    padding:10px;
+}
+h1{
+    text-align: left;
+}

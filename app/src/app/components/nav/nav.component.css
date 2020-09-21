@@ -1,0 +1,58 @@
+a:hover{
+    
+    color: hsla(0,0%,100%,.9);
+}
+
+.navbar-custom { 
+    background-color: #262832;
+    height:50px;
+    width:100%;
+    position: fixed;
+    z-index:9999;
+    text-decoration: none;
+    color: hsla(0,0%,100%,.5);
+    padding:0px;
+}
+
+.logo {
+    float: left;
+    height: 45px;
+    width: 45px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.brand{
+    height:32px;
+}
+
+.navbar-brand{
+    font-size: 32px;
+    font-family: impact;
+    color: #262832;
+    margin-top: 0;
+    padding: 0;
+}
+.nav-link{
+color:#37B6FF;
+height: 50px;
+font-size: 32px;
+font-family: Verdana;
+padding: 0;
+z-index: 99;
+margin: 0;
+
+}
+.navbar-toggler-icon{
+    
+    margin-right:5px;
+    
+}
+.navbar-toggler{
+    padding:0px;
+}
+.navbar-expend-md{
+    padding:0px;
+}
+.navbar-toggler-icon {
+    background-image: url('/assets/toggler.png');
+}
